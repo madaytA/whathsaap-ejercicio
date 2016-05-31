@@ -1,0 +1,24 @@
+{
+  "name": "whatsaap",
+  "version": "1.0.0",
+  "description": "ejercicio-laboratoria",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://madaytA@github.com/madaytA/whathsaap-ejercicio.git"
+  },
+  "author": "anabel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madaytA/whathsaap-ejercicio/issues"
+  },
+  "homepage": "https://github.com/madaytA/whathsaap-ejercicio#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+
+}

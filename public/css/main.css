@@ -1,0 +1,118 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+body{
+	font-family: 'Righteous', cursive;
+	background-image: url(../image/fondobody.jpg);
+	/*background-size: contain;*/
+	
+}
+.verde{
+	background-image: url(../image/fondoverd.jpg);
+	background-size: contain;
+	height: 150px;
+	width: 101%;
+}
+.flotante{
+	
+	/*background-color: #ccc;*/
+	/*width: 50%;*/
+	/*padding: 7px;*/
+	/*border: 3px solid #C467E8;*/
+}
+.flotante1{
+	margin: -100px auto auto;
+	/*border: 3px solid #C467E8;*/
+}
+.redondo{
+	height: 60px;
+	width: 60px;
+	border-radius: 100%;
+	background-image: url(../image/ana.jpg);
+	background-size: contain;
+	background-position: center;
+	border: 3px solid #fff;
+}
+.primero{
+	background-color: #E8B1D6;
+	color: #fff;
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 10px 5px;
+}
+.izquierda{
+	background-color: #fff;
+}
+.derecha{
+	background-image: url(../image/chat-panel-bg.png);
+	background-color: #fff;
+}
+i{
+	font-size: 23px;
+
+}
+.list-group{
+	overflow: scroll;
+	height: 500px;
+	margin-bottom: 0;
+	margin-top: 35px;
+}
+#chat{
+	display: none;
+}
+.foto_chat{
+	margin-top: -50px;
+}
+.logo{
+	background-image: url(../image/logocodeacademy.png);
+	height: 50px;
+	width: 50px;
+	background-size: contain;
+	background-position: center;
+}
+.buscar-chat{
+	padding:5px;	
+	border:1px solid #E0E0E0;
+	margin:7px 19px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+}
+.buscar-chat i{
+	color: #E0E0E0;
+}
+.buscar-chat input{
+	width: 90%;
+	border:none;
+}
+.list-mens{
+	height: 645px;
+}
+div.cont_tamano{
+	margin-top: 50px;
+}
+div.cont_tamano .list-group{
+	height: 430px;
+}
+#bienvenida{
+	margin-bottom: -20px;
+}
+#chat{
+	margin-bottom: -20px;
+}
+#mensaje{
+	margin-bottom: 8px;
+}
+.fb-like{
+	margin-top: 10px;
+}
+#nombres{
+	list-style: none;
+}
+#nombres img{
+	border-radius: 100%;
+	height: 50px;
+	width: 50px;
+
+}
+.dentrito{
+	float: right;
+}
